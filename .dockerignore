@@ -1,0 +1,3 @@
+data/mysql/db/
+*.sql
+*.db
